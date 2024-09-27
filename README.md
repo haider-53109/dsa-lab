@@ -1,2 +1,2 @@
 # dsa-lab
-only the damn lab tasks, and nothing else!!!
+only the lab tasks, and nothing else!!!
